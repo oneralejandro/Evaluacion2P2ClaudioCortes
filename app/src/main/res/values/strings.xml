@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tareas App</string>
+    <string name="tarea_form_ejemplo">Productos</string>
+    <string name="tarea_form_agregar" >Agregar Productos</string>
+    <string name="logo">Logo</string>
+    <string name="tarea_form_eliminar">Eliminar Productos</string>
+</resources>
